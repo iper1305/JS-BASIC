@@ -1,5 +1,3 @@
-# QA-AUTOMATION-TYPESCRIPT
-
 # JavaScript Learning Project
 
 This project is created as part of the learning program to study JavaScript and TypeScript for creating an automated test framework. The goal is to master the basics of programming, working with test automation principles, and developing a robust testing framework using modern JavaScript and TypeScript features.
