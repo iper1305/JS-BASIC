@@ -150,7 +150,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/iper1305/FirstJSProject/issues"
   },
